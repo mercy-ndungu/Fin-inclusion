@@ -1,0 +1,54 @@
+nav{
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+img{
+    width: 12vh;
+    height: 10vh;
+}
+.nav-properties{
+    display: flex;
+    padding-left: 22vh;
+   
+    
+    
+}
+.nav-menu{
+    display: flex;
+    list-style: none;
+    padding-left: 70vh;
+    padding-right: 13vh;
+ 
+}
+.nav-item{
+  font-family: poppins, serif;
+  color: black;
+  font-size: medium;
+  
+
+}
+li{
+    padding-left: 4vh;
+    padding-top: 2vh;
+}
+.nav-logo{
+    color: blue;
+    font-family: poppins;
+    font-size: 30px;
+}
+.header-button{
+    width: 25vh;
+    height: 7vh;
+    border: none;
+    color: white;
+    background-color: blue;
+    border-radius: 1vh;
+    padding-top: 2vh;
+    font-family: poppins;
+    font-size: large;
+   
+}
+button{
+  padding-top: 2vh;  
+}
+
+
